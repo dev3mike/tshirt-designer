@@ -22,6 +22,8 @@ This is a web app that helps you create t-shirt designs using AI. Here's how it 
 - **Mobile Friendly**: Works great on phones, tablets, and computers
 - **High Quality**: Generates print-ready images suitable for commercial use
 
+**Note:** This project is currently under development.
+
 ## How to Set Up
 
 ### What You Need
